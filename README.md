@@ -5,5 +5,5 @@
 <p align='justify'>The main library for this notebook is Keras with tensorflow backend. Some useful functions to get access to weights and activation described.</p>
 
 
-!['Readme Image'](./Pics/LenaAfterConv.png])
+!['Readme Image'](https://github.com/peeyman/cnn-visualization/tree/master/Pics/LenaAfterConv.png])
 
